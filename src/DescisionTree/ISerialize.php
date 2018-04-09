@@ -1,6 +1,6 @@
 <?php
 
-namespace DecisionTree;
+namespace DescisionTree;
 
 class ISerialize
 {
